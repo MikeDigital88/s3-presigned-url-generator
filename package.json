@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Generate S3 Pre-Signed URLs with Content-Disposition for download",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
